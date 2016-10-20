@@ -1,0 +1,10 @@
+machine:
+
+  timezone:
+    America/Los_Angeles # Set the timezone
+  ruby:
+    version:
+      2.3.1
+dependencies:
+pre:
+  - gem install bundler
